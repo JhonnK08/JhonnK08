@@ -2,6 +2,9 @@
 
 <p align="left"> 
   Olá, meu nome é Jhonatan, atualmente graduando em Tecnologia em Análise e Desenvovimento de Sistemas, na UTFPR em Ponta Grossa.
+</p>
+
+<p align="left">
   Atualmente sou estagiário de desenvolvimento.
   Meus interesses são em <strong>Desenvolvimento WEB</strong> e <strong>Front-end</strong>.
 </p>
