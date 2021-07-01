@@ -5,8 +5,11 @@
 </p>
 
 <p align="left">
-  Atualmente sou estagiário de desenvolvimento.
-  Meus interesses são em <strong>Desenvolvimento WEB</strong> e <strong>Front-end</strong>.
+  💬 Meus interesses são em <strong>Desenvolvimento WEB</strong> e <strong>Front-end</strong>.
+</p>
+
+<p align="left">
+  🔭 Atualmente sou estagiário de desenvolvimento.
 </p>
 
 <p align="left">
