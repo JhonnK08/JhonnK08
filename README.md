@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/JhonnK08/JhonnK08/main/network-illustration.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Jhonatan, atualmente graduando em Tecnologia em Análise e Desenvovimento de Sistemas, na UTFPR em Ponta Grossa.
+  👨‍💻 Olá, meu nome é Jhonatan, atualmente graduando em Tecnologia em Análise e Desenvovimento de Sistemas, na UTFPR em Ponta Grossa.
 </p>
 
 <p align="left">
@@ -9,15 +9,15 @@
 </p>
 
 <p align="left">
-  🔭 Atualmente sou estagiário de desenvolvimento.
+  📈 Atualmente sou estagiário de desenvolvimento.
 </p>
 
 <p align="left">
-  🦄 Conhecimento em: <strong>Java, C, HTML, CSS, PHP, Javascript, Bootstrap, ReactJS, Material UI</strong>.
+  🚀 Conhecimento em: <strong>Java, C, HTML, CSS, PHP, Javascript, Bootstrap, ReactJS, Material UI</strong>.
 </p>
 
 <p align="left">
-  💌 Minhas redes para contato: ⤵️
+  💌 Minhas redes para contato: 🔽
 </p>
 
 <p align="left">
