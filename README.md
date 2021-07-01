@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/JhonnK08/JhonnK08/main/network-illustration.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/JhonnK08/JhonnK08/main/network-illustration.svg" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador Jhonatan">
 
 <p align="left"> 
   👨‍💻 Olá, meu nome é Jhonatan, atualmente graduando em Tecnologia em Análise e Desenvovimento de Sistemas, na UTFPR em Ponta Grossa.
