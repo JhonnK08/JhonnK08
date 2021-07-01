@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💌 Minhas redes para contato: 🔽
+  💌 Minhas redes para contato:
 </p>
 
 <p align="left">
