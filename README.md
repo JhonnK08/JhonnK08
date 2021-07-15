@@ -31,6 +31,9 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/jhonnkonopp/"/></a>
 </p>
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonnK08)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JhonnK08/JhonnK08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
