@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🚀 Conhecimento em: <strong>Java, C, HTML, CSS, PHP, Javascript, Bootstrap, ReactJS, Material UI</strong>.
+  🚀 Conhecimento em: <strong>Java, C, HTML, CSS, PHP, Javascript, Typescript, Bootstrap, ReactJS, Node, Material UI</strong>.
 </p>
 
 <p align="left">
