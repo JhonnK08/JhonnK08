@@ -9,12 +9,12 @@
 </p>
 
 <p align="left">
-  📈 Atualmente sou estagiário de desenvolvimento.
+  📈 Atualmente sou Desenvolver Web Fullstack Junior.
 </p>
 
 <p align="left">
-  🚀 Conhecimento em: <strong>Java, C, HTML, CSS, PHP, Javascript, Typescript, Bootstrap, 
-  ReactJS, Node, Material UI</strong>.
+  🚀 Conhecimentos em: <strong>Java, C, HTML, CSS, PHP, Javascript, Typescript, Bootstrap, 
+  ReactJS, Node, AWS, GraphQL e Material UI</strong>.
 </p>
 
 <p align="left">
