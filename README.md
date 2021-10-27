@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  📈 Atualmente sou Desenvolver Web Fullstack Junior.
+  📈 Atualmente sou Desenvolver Web Fullstack Jr.
 </p>
 
 <p align="left">
