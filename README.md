@@ -14,7 +14,7 @@
 
 <p align="left">
   🚀 Conhecimentos em: <strong>Java, C, HTML, CSS, PHP, Javascript, Typescript, Bootstrap, 
-  ReactJS, Node, AWS, GraphQL e Material UI</strong>.
+  ReactJS, Redux, Redux Saga, React-query, Node, AWS, GraphQL, Material UI e Tailwind CSS</strong>.
 </p>
 
 <p align="left">
