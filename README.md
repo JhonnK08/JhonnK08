@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/JhonnK08/JhonnK08/main/network-illustration.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Jhonatan">
 
 <p align="left"> 
-  👨‍💻 Olá! Meu nome é Jhonatan, atualmente graduando em Tecnologia em Análise e Desenvovimento de Sistemas, na UTFPR em Ponta Grossa.
+  👨‍💻 Olá! Meu nome é Jhonatan, graduado em Tecnologia em Análise e Desenvovimento de Sistemas, na UTFPR em Ponta Grossa.
 </p>
 
 <p align="left">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  📈 Atualmente sou Desenvolver Web Fullstack Jr.
+  📈 Atualmente sou Desenvolvedor Web Fullstack Jr.
 </p>
 
 <p align="left">
