@@ -9,12 +9,12 @@
 </p>
 
 <p align="left">
-  📈 Atualmente sou Desenvolvedor Web Fullstack Jr.
+  📈 Atualmente sou Desenvolvedor Web Fullstack Pleno.
 </p>
 
 <p align="left">
   🚀 Conhecimentos em: <strong>Java, C, HTML, CSS, PHP, Javascript, Typescript, Bootstrap, 
-  ReactJS, Redux, Redux Saga, React-query, Node, AWS, GraphQL, Material UI e Tailwind CSS</strong>.
+  ReactJS, Redux, Redux Saga, React-query, Node, AWS, GraphQL, Material UI e Tailwind CSS, Zustand</strong>.
 </p>
 
 <p align="left">
