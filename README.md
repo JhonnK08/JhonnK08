@@ -1,24 +1,24 @@
 <img src="https://raw.githubusercontent.com/JhonnK08/JhonnK08/main/network-illustration.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Jhonatan">
 
-<p align="left"> 
-  👨‍💻 Olá! Meu nome é Jhonatan, graduado em Tecnologia em Análise e Desenvovimento de Sistemas, na UTFPR em Ponta Grossa.
+<p align="left">
+  👨‍💻 Hello! My name is Jhonatan, and I have a Technology in Systems Analysis and Development degree from UTFPR in Ponta Grossa.
 </p>
 
 <p align="left">
-  💬 Meus interesses são em <strong>Desenvolvimento WEB</strong> e <strong>Front-end</strong>.
+  💬 My interests lie in <strong>Web Development</strong> and <strong>Front-end</strong>.
 </p>
 
 <p align="left">
-  📈 Atualmente sou Desenvolvedor Web Fullstack Pleno.
+  📈 Currently, I work as a Fullstack Web Developer at  <a href="https://medcloud.link" alt="Medcloud">Medcloud</a>.
 </p>
 
 <p align="left">
-  🚀 Conhecimentos em: <strong>Java, C, HTML, CSS, PHP, Javascript, Typescript, Bootstrap, 
-  ReactJS, Redux, Redux Saga, React-query, Node, AWS, GraphQL, Material UI e Tailwind CSS, Zustand</strong>.
+  🚀 Proficient in <strong>Java, C, HTML, CSS, PHP, Javascript, Typescript, Bootstrap,
+  ReactJS, Redux, Redux Saga, React-Query, Node, AWS, GraphQL, Material UI, Tailwind CSS, Zustand, Jest, and Cypress</strong>.
 </p>
 
 <p align="left">
-  💌 Minhas redes para contato:
+  💌 You can reach me on my social media:
 </p>
 
 <p align="left">
