@@ -13,8 +13,7 @@
 </p>
 
 <p align="left">
-  🚀 Proficient in <strong>Java, C, HTML, CSS, PHP, Javascript, Typescript, Bootstrap,
-  ReactJS, Redux, Redux Saga, React-Query, Node, AWS, GraphQL, Material UI, Tailwind CSS, Zustand, Jest, and Cypress</strong>.
+  🚀 Proficient in <strong>React.js, Node.js, Javascript, Typescript, HTML, CSS, AWS, GraphQL, Material UI, Tailwind CSS, Redux, Redux-Saga, Zustand, Jest, and Cypress</strong>.
 </p>
 
 <p align="left">
