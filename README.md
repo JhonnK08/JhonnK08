@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  📈 Currently, I work as a Fullstack Web Developer at  <a href="https://medcloud.link" alt="Medcloud">Medcloud</a>.
+  📈 Currently, I work as a Mid-level Fullstack Developer at  <a href="https://medcloud.link" alt="Medcloud">Medcloud</a>.
 </p>
 
 <p align="left">
